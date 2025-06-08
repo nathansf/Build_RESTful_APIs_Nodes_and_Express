@@ -7,7 +7,7 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./index.js  --exec babel-nodemon"
+    "start": "nodemon ./index.js  --exec babel-node"
   },
   "dependencies": {
     "body-parser": "^2.2.0",
